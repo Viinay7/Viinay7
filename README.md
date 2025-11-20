@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Data Science Projects 📈**
 
-- 👨‍💻 All of my projects are available at [https://viinay7.github.io/Responsive-Portfolio-Design-master/](https://viinay7.github.io/Responsive-Portfolio-Design-master/)
+- 👨‍💻 All of my projects are available at [https://viinay7.github.io/Responsive-Portfolio-Design-master/](https://vinay-protfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@viinay7](https://medium.com/@viinay7)
 
